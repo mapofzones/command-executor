@@ -1,0 +1,6 @@
+executor:
+  sync-time: 1000
+
+spring:
+  main:
+    web-application-type: none
