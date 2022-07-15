@@ -1,4 +1,4 @@
-package com.mapofzones.tokenmatcher;
+package com.mapofzones.commandexecutor;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;

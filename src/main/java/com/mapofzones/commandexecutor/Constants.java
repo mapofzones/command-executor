@@ -1,4 +1,4 @@
-package com.mapofzones.tokenmatcher;
+package com.mapofzones.commandexecutor;
 
 import java.util.ArrayList;
 
