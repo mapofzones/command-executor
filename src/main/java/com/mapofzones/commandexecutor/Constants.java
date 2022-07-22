@@ -28,13 +28,13 @@ public interface Constants {
         add("fetchai-watcher-app");
         add("gravitybridge-watcher-app");
         add("impacthub-watcher-app");
-//        add("injectivecleared-watcher-app");
+        add("injectivecleared-watcher-app");
 //        add("injective-watcher-app");
         add("irishub-watcher-app");
         add("juno-watcher-app");
         add("kava-watcher-app");
 //        add("kichainlogged-watcher-app");
-//        add("kichain-watcher-app");
+        add("kichain-watcher-app");
         add("konstellation-watcher-app");
         add("kujira-watcher-app");
         add("likecoin-watcher-app");
