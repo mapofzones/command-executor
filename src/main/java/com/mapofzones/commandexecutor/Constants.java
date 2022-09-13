@@ -28,8 +28,8 @@ public interface Constants {
         add("fetchai-watcher-app");
         add("gravitybridge-watcher-app");
         add("impacthub-watcher-app");
-        add("injectivecleared-watcher-app");
-//        add("injective-watcher-app");
+//        add("injectivecleared-watcher-app");
+        add("injective-watcher-app");
         add("irishub-watcher-app");
         add("juno-watcher-app");
         add("kava-watcher-app");
@@ -55,5 +55,6 @@ public interface Constants {
         add("terra-watcher-app");
         add("umee-watcher-app");
         add("vidulum-watcher-app");
+        add("functionx-watcher-app");
     }};
 }
