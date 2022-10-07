@@ -56,5 +56,7 @@ public interface Constants {
         add("umee-watcher-app");
         add("vidulum-watcher-app");
         add("functionx-watcher-app");
+        add("stride-watcher-app");
+        add("spacepussy-watcher-app");
     }};
 }
