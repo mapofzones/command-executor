@@ -58,5 +58,7 @@ public interface Constants {
         add("functionx-watcher-app");
         add("stride-watcher-app");
         add("spacepussy-watcher-app");
+        add("agoric-watcher-app");
+        add("okex-watcher-app");
     }};
 }
