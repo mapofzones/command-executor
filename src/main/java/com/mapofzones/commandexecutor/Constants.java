@@ -60,5 +60,8 @@ public interface Constants {
         add("spacepussy-watcher-app");
         add("agoric-watcher-app");
         add("okex-watcher-app");
+        add("oraichain-watcher-app");
+        add("jackal-watcher-app");
+        add("canto-watcher-app");
     }};
 }
