@@ -63,5 +63,6 @@ public interface Constants {
         add("oraichain-watcher-app");
         add("jackal-watcher-app");
         add("canto-watcher-app");
+        add("terra-phoenix-watcher-app");
     }};
 }
