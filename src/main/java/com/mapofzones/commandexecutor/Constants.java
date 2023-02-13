@@ -64,5 +64,6 @@ public interface Constants {
         add("jackal-watcher-app");
         add("canto-watcher-app");
         add("terra-phoenix-watcher-app");
+        add("mars-watcher-app");
     }};
 }
