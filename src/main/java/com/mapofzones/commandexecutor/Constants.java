@@ -67,5 +67,6 @@ public interface Constants {
         add("planq-watcher-app");
         add("quicksilver-watcher-app");
         add("mars-watcher-app");
+        add("migaloo-watcher-app");
     }};
 }
