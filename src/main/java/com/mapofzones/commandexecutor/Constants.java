@@ -69,5 +69,6 @@ public interface Constants {
         add("mars-watcher-app");
         add("migaloo-watcher-app");
         add("xpla-watcher-app");
+        add("archway-watcher-app");
     }};
 }
