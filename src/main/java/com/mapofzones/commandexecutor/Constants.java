@@ -70,5 +70,6 @@ public interface Constants {
         add("migaloo-watcher-app");
         add("xpla-watcher-app");
         add("archway-watcher-app");
+        add("nolus-watcher-app");
     }};
 }
