@@ -71,5 +71,6 @@ public interface Constants {
         add("xpla-watcher-app");
         add("archway-watcher-app");
         add("nolus-watcher-app");
+        add("picasso-watcher-app");
     }};
 }
