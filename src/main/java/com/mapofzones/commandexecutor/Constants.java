@@ -72,5 +72,8 @@ public interface Constants {
         add("archway-watcher-app");
         add("nolus-watcher-app");
         add("picasso-watcher-app");
+        add("noble-watcher-app");
+        add("neutron-watcher-app");
+        add("nois-watcher-app");
     }};
 }
