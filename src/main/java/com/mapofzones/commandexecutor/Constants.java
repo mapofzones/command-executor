@@ -76,5 +76,6 @@ public interface Constants {
         add("neutron-watcher-app");
         add("nois-watcher-app");
         add("aura-watcher-app");
+        add("coreum-watcher-app");
     }};
 }
