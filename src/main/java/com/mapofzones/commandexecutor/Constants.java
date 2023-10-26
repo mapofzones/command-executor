@@ -80,5 +80,6 @@ public interface Constants {
         add("kyve-watcher-app");
         add("gitopia-watcher-app");
         add("qwoyn-watcher-app");
+        add("haqq-watcher-app");
     }};
 }
