@@ -79,5 +79,6 @@ public interface Constants {
         add("coreum-watcher-app");
         add("kyve-watcher-app");
         add("gitopia-watcher-app");
+        add("qwoyn-watcher-app");
     }};
 }
