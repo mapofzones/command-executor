@@ -81,5 +81,6 @@ public interface Constants {
         add("gitopia-watcher-app");
         add("qwoyn-watcher-app");
         add("haqq-watcher-app");
+        add("dydx-watcher-app");
     }};
 }
