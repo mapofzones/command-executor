@@ -82,5 +82,6 @@ public interface Constants {
         add("qwoyn-watcher-app");
         add("haqq-watcher-app");
         add("dydx-watcher-app");
+        add("empowerchain-watcher-app");
     }};
 }
