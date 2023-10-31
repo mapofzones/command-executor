@@ -84,5 +84,6 @@ public interface Constants {
         add("dydx-watcher-app");
         add("empowerchain-watcher-app");
         add("teritori-watcher-app");
+        add("celestia-watcher-app");
     }};
 }
