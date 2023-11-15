@@ -85,5 +85,6 @@ public interface Constants {
         add("empowerchain-watcher-app");
         add("teritori-watcher-app");
         add("celestia-watcher-app");
+        add("quasar-watcher-app");
     }};
 }
