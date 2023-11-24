@@ -87,5 +87,6 @@ public interface Constants {
         add("celestia-watcher-app");
         add("quasar-watcher-app");
         add("carbon-watcher-app");
+        add("firmachain-watcher-app");
     }};
 }
