@@ -89,5 +89,6 @@ public interface Constants {
         add("carbon-watcher-app");
         add("firmachain-watcher-app");
         add("realio-watcher-app");
+        add("stafihub-watcher-app");
     }};
 }
