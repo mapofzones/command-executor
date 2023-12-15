@@ -96,5 +96,6 @@ public interface Constants {
         add("sge-watcher-app");
         add("uptick-watcher-app");
         add("onomy-watcher-app");
+        add("ununifi-watcher-app");
     }};
 }
