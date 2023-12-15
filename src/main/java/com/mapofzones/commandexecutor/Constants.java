@@ -90,5 +90,11 @@ public interface Constants {
         add("firmachain-watcher-app");
         add("realio-watcher-app");
         add("stafihub-watcher-app");
+        add("nym-watcher-app");
+        add("provenance-watcher-app");
+        add("beezee-watcher-app");
+        add("sge-watcher-app");
+        add("uptick-watcher-app");
+        add("onomy-watcher-app");
     }};
 }
