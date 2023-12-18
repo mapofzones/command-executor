@@ -97,5 +97,8 @@ public interface Constants {
         add("uptick-watcher-app");
         add("onomy-watcher-app");
         add("ununifi-watcher-app");
+        add("echelon-watcher-app");
+        add("source-watcher-app");
+        add("bluzelle-watcher-app");
     }};
 }
