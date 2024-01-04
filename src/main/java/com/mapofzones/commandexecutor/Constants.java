@@ -100,5 +100,6 @@ public interface Constants {
         add("echelon-watcher-app");
         add("source-watcher-app");
         add("bluzelle-watcher-app");
+        add("cudos-watcher-app");
     }};
 }
