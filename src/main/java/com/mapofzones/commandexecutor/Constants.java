@@ -102,5 +102,7 @@ public interface Constants {
         add("bluzelle-watcher-app");
         add("cudos-watcher-app");
         add("passage-watcher-app");
+        add("sei-watcher-app");
+        add("andromeda-watcher-app");
     }};
 }
