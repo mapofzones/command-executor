@@ -104,5 +104,6 @@ public interface Constants {
         add("passage-watcher-app");
         add("sei-watcher-app");
         add("andromeda-watcher-app");
+        add("dymension-watcher-app");
     }};
 }
