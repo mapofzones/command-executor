@@ -105,5 +105,7 @@ public interface Constants {
         add("sei-watcher-app");
         add("andromeda-watcher-app");
         add("dymension-watcher-app");
+        add("scorum-watcher-app");
+        add("saga-watcher-app");
     }};
 }
