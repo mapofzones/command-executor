@@ -107,5 +107,6 @@ public interface Constants {
         add("dymension-watcher-app");
         add("scorum-watcher-app");
         add("saga-watcher-app");
+        add("c4e-watcher-app");
     }};
 }
